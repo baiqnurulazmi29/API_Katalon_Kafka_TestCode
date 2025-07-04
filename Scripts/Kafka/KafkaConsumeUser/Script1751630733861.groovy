@@ -50,8 +50,8 @@ for (ConsumerRecord<String, String> record : records) {
 	println "Pesan diterima dari Kafka:"
 	println "Value : " + record.value()
 
-	// (Opsional) Verifikasi isi pesan
-	assert record.value().contains("Baiq") 
+	// Verifikasi isi pesan
+	assert record.value().toLowerCase().contains("baiq")
 }
 
 consumer.close()
