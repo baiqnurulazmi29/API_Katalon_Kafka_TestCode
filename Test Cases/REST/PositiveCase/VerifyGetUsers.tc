@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>VerifyGetUsers</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>bd195210-d0de-4ae2-bb61-4ffa78002c11</testCaseGuid>
+</TestCaseEntity>

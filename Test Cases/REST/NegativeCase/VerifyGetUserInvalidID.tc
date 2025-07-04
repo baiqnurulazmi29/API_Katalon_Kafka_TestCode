@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>VerifyGetUserInvalidID</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>714780e7-2028-44cd-9ea0-0d1c359038f3</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Project>
+   <description></description>
+   <name>IFGLife_TestCode</name>
+   <tag></tag>
+   <UUID>21f18a37-0b4a-453a-967e-831d1469e275</UUID>
+   <createdEdition>FREE</createdEdition>
+   <createdVersion>10.2.3</createdVersion>
+   <freeLicense>true</freeLicense>
+   <migratedVersion>5.9.0</migratedVersion>
+   <modifiedEdition>FREE</modifiedEdition>
+   <modifiedVersion>10.2.3</modifiedVersion>
+   <pageLoadTimeout>0</pageLoadTimeout>
+   <projectFileLocation>C:\Users\baiq nurul azmi\Katalon Studio\IFGLife_TestCode\IFGLife_TestCode.prj</projectFileLocation>
+   <sourceContent>
+      <sourceFolderList>
+         <sourceFolderConfiguration>
+            <url>Include/scripts/groovy</url>
+         </sourceFolderConfiguration>
+      </sourceFolderList>
+      <systemFolderList>
+         <systemFolderConfiguration>
+            <url>Include/scripts/groovy</url>
+         </systemFolderConfiguration>
+         <systemFolderConfiguration>
+            <url>Include/features</url>
+         </systemFolderConfiguration>
+         <systemFolderConfiguration>
+            <url>Include/config</url>
+         </systemFolderConfiguration>
+      </systemFolderList>
+   </sourceContent>
+   <timeStampInProperties>false</timeStampInProperties>
+   <type>WEBSERVICE</type>
+</Project>

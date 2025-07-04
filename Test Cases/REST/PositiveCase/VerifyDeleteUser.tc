@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>VerifyDeleteUser</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>913d2b1d-5223-4f26-b5d2-ad2f02dc295d</testCaseGuid>
+</TestCaseEntity>

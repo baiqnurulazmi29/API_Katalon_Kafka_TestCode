@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>KafkaConsume_InvalidTopic</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>4b53ee6b-e186-4730-842d-6c33bfe8bdaa</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>VerifyUpdateUser</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>edafdf02-3613-49a6-95ea-b0871cf0dc89</testCaseGuid>
+</TestCaseEntity>

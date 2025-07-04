@@ -1,0 +1,36 @@
+# ===== KATALON BUILD & TEMP FILES =====
+.gradle
+bin/
+Libs/
+Reports/
+output/
+build/
+.cache/
+
+# Simpan folder output jika berisi gitkeep
+!output/.gitkeep
+
+# ===== KATALON CONFIG & INTERNAL =====
+.classpath
+.project
+.settings/
+Profiles/
+Include/
+Test Suites/
+JUnit_Report/
+*.log
+*.jar
+*.class
+*.properties
+
+# ===== IDE FILES =====
+.idea/
+*.iml
+
+# ===== OS-GENERATED FILES =====
+.DS_Store
+Thumbs.db
+
+# ===== ALLOW EVIDENCE & README =====
+!Evidence/
+!README.md

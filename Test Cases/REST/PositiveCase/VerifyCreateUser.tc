@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>VerifyCreateUser</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>215579c8-b0b6-49e7-86a5-c0d7d6babb0c</testCaseGuid>
+</TestCaseEntity>
