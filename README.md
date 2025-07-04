@@ -1,9 +1,8 @@
 
-# 🧪 IFGLife_TestCode
+# 🧪 Kafka & API Test Automation Project using Katalon
 
 ## 📌 Deskripsi Project
 
-Project ini merupakan bagian dari proses seleksi teknikal di IFG Life.  
 Pengujian dilakukan menggunakan **Katalon Studio**, dengan 2 komponen utama:
 
 1. **Pengujian RESTful API** — menggunakan [reqres.in](https://reqres.in) sebagai dummy API, dengan Katalon sebagai **Producer** dan **Consumer**.
@@ -96,7 +95,7 @@ bin/kafka-topics.sh --create --topic test-topic --bootstrap-server localhost:909
 
 ### 4. Kirim Data ke Topic (manual)
 ```bash
-bin/kafka-console-producer.sh --topic test-topic --bootstrap-server localhost:9092
+bin/windows/kafka-console-producer.bat --topic test-topic --bootstrap-server localhost:9092
 ```
 
 Contoh pesan:
@@ -108,7 +107,7 @@ Contoh pesan:
 
 ## 📷 Evidence Hasil Test
 
-Semua hasil test (manual + otomatis) disimpan di folder `Evidence/`.
+Semua hasil test disimpan di folder `Evidence/`.
 
 | Test Case                     | Screenshot                                     |
 |------------------------------|------------------------------------------------|
